@@ -18,6 +18,12 @@ This test file contains the following tests for the registration and login funct
 1. **ValidReg**: Tests if a user can register with valid credentials.
 2. **ValidLogin**: Tests if a user can log in with correct credentials after registration.
 
+### `Predict.java`
+
+This test file contains a single test that fills out and submits a loan prediction form:
+
+1. **Prediction**: Tests filling out the loan prediction form with various input fields and submitting it.
+
 ## Setup and Execution
 
 ### Prerequisites
